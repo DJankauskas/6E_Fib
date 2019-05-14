@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - UserOfFib",
+            "request": "launch",
+            "mainClass": "UserOfFib",
+            "projectName": "6E_Fib_f8efc428"
+        }
+    ]
+}
